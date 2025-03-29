@@ -20,8 +20,7 @@ This Python tool extracts transaction data from Punjab & Sind Bank PDF statement
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bank-statement-extractor.git
-   cd bank-statement-extractor
+   https://github.com/ashishsai960/Scoreme-Placement-Drive_-Hackathon.git
    ```
 
 2. Install required dependencies:

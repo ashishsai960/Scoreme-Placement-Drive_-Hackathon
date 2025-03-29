@@ -33,7 +33,7 @@ This Python tool extracts transaction data from Punjab & Sind Bank PDF statement
 ### Basic Usage
 
 ```bash
-python extractor.py input.pdf output.xlsx
+python assignment_iitropar_scoreme_2021CHB1046.py input.pdf output.xlsx
 ```
 
 ### Options
@@ -44,7 +44,7 @@ python extractor.py input.pdf output.xlsx
 ### Example
 
 ```bash
-python extractor.py statement.pdf transactions.xlsx
+python assignment_iitropar_scoreme_2021CHB1046.py statement.pdf transactions.xlsx
 ```
 
 ## Requirements
